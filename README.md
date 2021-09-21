@@ -173,7 +173,7 @@ A curated list of awesome things related to React Hooks
 - [LEARN REACT THE RIGHT WAY](https://www.newline.co/fullstack-react)
 - [HTML To React: The Ultimate Guide](https://ngninja.gumroad.com/l/html2react)
 - [The Road to React by Robin Wieruch](https://www.amazon.com/Road-learn-React-pragmatic-React-js-ebook/dp/B077HJFCQX?tag=javamysqlanta-20)
-- [React Book, your beginner guide to React(https://github.com/softchris/react-book)
+- [React Book, your beginner guide to React](https://github.com/softchris/react-book)
 
 ## Courses
 
