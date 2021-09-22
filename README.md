@@ -21,6 +21,8 @@ A curated list of awesome things related to React Hooks
 
 ## Articles
 
+- [React Js Resize, Compress and Crop Image Size Tutorial](https://www.positronx.io/react-js-resize-compress-and-crop-image-size-tutorial/)
+- [How to use React useReducer hook like a pro](https://dev.to/pierreouannes/how-to-use-react-usereducer-hook-like-a-pro-3ll3)
 - [Create an NPX CLI Portfolio under 5 minutes](https://blog.anishde.dev/create-an-npx-cli-portfolio-under-5-minutes)
 - [React Router - A Beginner Guide](https://codeman.hashnode.dev/react-router-a-beginner-guide)
 - [A headless calendar hook for React](https://reactjsexample.com/a-headless-calendar-hook-for-react/)
@@ -89,6 +91,22 @@ A curated list of awesome things related to React Hooks
 
 ## Packages
 
+- [React Hot Toast](https://react-hot-toast.com/) - The Best Toast in Town. Smoking hot React notifications.
+- [React Content Loader](https://skeletonreact.com/) - SVG-Powered component to easily create placeholder loadings (like Facebook’s cards loading).
+- [React Filepond](https://pqina.nl/filepond/) - A new way to upload files
+- [React Notion X](https://github.com/NotionX/react-notion-x) - Fast and accurate React renderer for Notion. TS batteries included. ⚡ ️
+- [React Select](https://react-select.com/home) - A flexible and beautiful Select Input control for ReactJS with multiselect, autocomplete, async and creatable support.
+- [Sweet Alert](https://sweetalert.js.org/) - A beautiful replacement for success messages, error messages or info messages
+- [React Infinite Scroller](https://danbovey.uk/react-infinite-scroller/) - Infinitely load content using a React Component.
+- [React DnD](https://react-dnd.github.io/react-dnd/about) - A React utility to help you build complex drag and drop interfaces while keeping your components decoupled.
+- [Draft JS](https://draftjs.org/) - Draft.js fits seamlessly into React applications, abstracting away the details of rendering, selection, and input behavior with a familiar declarative API.
+- [ChartJS](https://github.com/reactchartjs/react-chartjs-2) - Build beautiful charts in minutes with Chartjs, Dashboards will looks sexy like never before.
+- [React Slick](https://react-slick.neostack.com/) - React carousel component. One of the best sliders out there to showcase anything.
+- [React Auto Suggest](http://react-autosuggest.js.org/) - WAI-ARIA compliant autosuggest component built in React
+- [React Burger Menu](https://negomi.github.io/react-burger-menu/) - An off-canvas sidebar React component with a collection of effects and styles using CSS transitions and SVG path animations.
+- [React Spinners](https://www.davidhu.io/react-spinners/) - A collection of loading spinner components for react
+- [React Bootstrap Datatable](https://react-bootstrap-table.github.io/react-bootstrap-table2/) - Next Generation of react-bootstrap-table. Datatable made easy like never before.
+- [Styled Components](https://styled-components.com/) - styled-components is the result of wondering how we could enhance CSS for styling React component systems.
 - [use-abortable-stream-fetch](https://github.com/marconi/use-abortable-stream-fetch) - React hook for fetching streams that can be aborted.
 - [React API Hooks](https://github.com/ABWalters/react-api-hooks) - React hooks to interact with an API from a stateless component using axios.
 - [React Use Smooth Scroll](https://github.com/saidMounaim/React-Use-Smooth-Scroll) - React Provider Component to add a smooth scroll effect 😍
@@ -166,6 +184,9 @@ A curated list of awesome things related to React Hooks
 - [Infinite Scrolling With React - Tutorial](https://www.youtube.com/watch?v=NZKUirTtxcg&ab_channel=WebDevSimplified)
 - [Simple Frontend Pagination | React](https://www.youtube.com/watch?v=IYCa1F-OWmk&ab_channel=TraversyMedia)
 - [Styled Components Crash Course & Project](https://www.youtube.com/watch?v=02zO0hZmwnw&ab_channel=TraversyMedia)
+- [React 18 & TypeScript | How to Enable TypeScript in React 18](https://www.youtube.com/watch?v=bA5pZnEE0yA&ab_channel=codeSTACKr)
+- [Vite 2.0 Crash Course | Super Fast Build Tool for JavaScript, React, Vue, Svelte, & Lit (2021)](https://www.youtube.com/watch?v=LQQ3CR2JTX8&t=24s&ab_channel=codeSTACKr)
+- [React Tables From Zero to Hero](https://www.youtube.com/watch?v=WRKEjPq75BY&ab_channel=CoderOne)
 
 ## Books
 
