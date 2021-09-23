@@ -21,6 +21,7 @@ A curated list of awesome things related to React Hooks
 
 ## Articles
 
+- [Create React Components from The Command Line with Agrippa](https://blog.bitsrc.io/create-react-components-from-the-command-line-with-agrippa-621a6f4d19e8)
 - [React Js Resize, Compress and Crop Image Size Tutorial](https://www.positronx.io/react-js-resize-compress-and-crop-image-size-tutorial/)
 - [How to use React useReducer hook like a pro](https://dev.to/pierreouannes/how-to-use-react-usereducer-hook-like-a-pro-3ll3)
 - [Create an NPX CLI Portfolio under 5 minutes](https://blog.anishde.dev/create-an-npx-cli-portfolio-under-5-minutes)
@@ -185,8 +186,18 @@ A curated list of awesome things related to React Hooks
 - [Simple Frontend Pagination | React](https://www.youtube.com/watch?v=IYCa1F-OWmk&ab_channel=TraversyMedia)
 - [Styled Components Crash Course & Project](https://www.youtube.com/watch?v=02zO0hZmwnw&ab_channel=TraversyMedia)
 - [React 18 & TypeScript | How to Enable TypeScript in React 18](https://www.youtube.com/watch?v=bA5pZnEE0yA&ab_channel=codeSTACKr)
+- [React Netflix Movie App Design Tutorial | React UI Full Course for Beginners](https://www.youtube.com/watch?v=FzWG8jiw4XM&t=1s&ab_channel=LamaDev)
 - [Vite 2.0 Crash Course | Super Fast Build Tool for JavaScript, React, Vue, Svelte, & Lit (2021)](https://www.youtube.com/watch?v=LQQ3CR2JTX8&t=24s&ab_channel=codeSTACKr)
 - [React Tables From Zero to Hero](https://www.youtube.com/watch?v=WRKEjPq75BY&ab_channel=CoderOne)
+- [Build A Realtime Chat App In ReactJS and NodeJS | Socket.io Tutorial](https://www.youtube.com/watch?v=NU-HfZY3ATQ&ab_channel=PedroTech)
+- [React E-Commerce App Design Tutorial | React Shopping Cart UI Design](https://www.youtube.com/watch?v=c1xTDSIXit8&ab_channel=LamaDev)
+- [React Admin Dashboard Tutorial](https://www.youtube.com/watch?v=aTPkos3LKi8&ab_channel=LamaDev)
+- [Deploy Node.js and React Apps | Full Deployment /w Nginx VPS, SSL](https://www.youtube.com/watch?v=Nxw2j1-srVc&ab_channel=LamaDev)
+- [3 Awesome React Loading Screens | Skeleton - Circular - Animated](https://www.youtube.com/watch?v=PNQGbczXkMI&ab_channel=LamaDev)
+- [React Movie App Tutorial](https://www.youtube.com/watch?v=jc9_Bqzy2YQ&ab_channel=ChrisBlakely)
+- [React File Upload Tutorial with Drag-n-Drop and ProgressBar](https://www.youtube.com/watch?v=MAw0lQKqjRA&ab_channel=BrunoAntunes)
+- [React Hooks SWR: Fetch, Cache and ReValidate server data with SWR and Axios](https://www.youtube.com/watch?v=a7JigiLw_OY&ab_channel=BrunoAntunes)
+- [Formik: React Forms Tutorial with Yup and Material](https://www.youtube.com/watch?v=kYyaJyTLjpk&ab_channel=BrunoAntunes)
 
 ## Books
 
