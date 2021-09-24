@@ -21,6 +21,9 @@ A curated list of awesome things related to React Hooks
 
 ## Articles
 
+- [Just Redux: The Complete Guide](https://dev.to/thesanjeevsharma/just-redux-the-complete-guide-44d5)
+- [How to write more structured and testable React code using Custom Hooks](https://www.brightec.co.uk/blog/how-to-write-more-structured-and-testable-react-code-using-custom-hooks)
+- [React Hook Form - Reset form with default values and clear errors](https://jasonwatmore.com/post/2021/09/23/react-hook-form-reset-form-with-default-values-and-clear-errors)
 - [Create React Components from The Command Line with Agrippa](https://blog.bitsrc.io/create-react-components-from-the-command-line-with-agrippa-621a6f4d19e8)
 - [React Js Resize, Compress and Crop Image Size Tutorial](https://www.positronx.io/react-js-resize-compress-and-crop-image-size-tutorial/)
 - [How to use React useReducer hook like a pro](https://dev.to/pierreouannes/how-to-use-react-usereducer-hook-like-a-pro-3ll3)
@@ -92,6 +95,7 @@ A curated list of awesome things related to React Hooks
 
 ## Packages
 
+- [React Icons](https://react-icons.github.io/react-icons/) - Include popular icons in your React projects easily with react-icons, which utilizes ES6 imports that allows you to include only the icons that your project is using.
 - [React Hot Toast](https://react-hot-toast.com/) - The Best Toast in Town. Smoking hot React notifications.
 - [React Content Loader](https://skeletonreact.com/) - SVG-Powered component to easily create placeholder loadings (like Facebook’s cards loading).
 - [React Filepond](https://pqina.nl/filepond/) - A new way to upload files
@@ -198,6 +202,7 @@ A curated list of awesome things related to React Hooks
 - [React File Upload Tutorial with Drag-n-Drop and ProgressBar](https://www.youtube.com/watch?v=MAw0lQKqjRA&ab_channel=BrunoAntunes)
 - [React Hooks SWR: Fetch, Cache and ReValidate server data with SWR and Axios](https://www.youtube.com/watch?v=a7JigiLw_OY&ab_channel=BrunoAntunes)
 - [Formik: React Forms Tutorial with Yup and Material](https://www.youtube.com/watch?v=kYyaJyTLjpk&ab_channel=BrunoAntunes)
+- [TypeScript/React Testing: Components, Hooks, Custom Hooks, Redux and Zustand](https://www.youtube.com/watch?v=bvdHVxqjv80&ab_channel=JackHerrington)
 
 ## Books
 
